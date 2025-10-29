@@ -18,7 +18,7 @@ export default function Page() {
           We are preparing a better experience for mechanical engineers and industrial
           tooling buyers. Please check back soon.
         </p>
-        <p className="sub">For inquiries: sales@gripzonetools.com</p>
+        <p className="sub">For inquiries: salesatgripzone@gmail.com</p>
       </div>
       <footer>
         © {new Date().getFullYear()} GripZone Tools
